@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\images\\82750307-f465-4416-91bc-db431c1fc07c_car2.jpg",
+      "PackagePath": "staticwebassets\\images\\82750307-f465-4416-91bc-db431c1fc07c_car2.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\images\\9180abf1-9974-4583-94b9-1319905d67e2_car1.jpg",
+      "PackagePath": "staticwebassets\\images\\9180abf1-9974-4583-94b9-1319905d67e2_car1.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\images\\9bd4f6a9-3e30-4231-81db-6bf21ee142e4_car6.jpg",
+      "PackagePath": "staticwebassets\\images\\9bd4f6a9-3e30-4231-81db-6bf21ee142e4_car6.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\images\\car2.jpg",
+      "PackagePath": "staticwebassets\\images\\car2.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\images\\car5.jpg",
+      "PackagePath": "staticwebassets\\images\\car5.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\images\\f66511ad-fbd2-45a9-a18c-ff74e3cdfbf8_car3.jpg",
+      "PackagePath": "staticwebassets\\images\\f66511ad-fbd2-45a9-a18c-ff74e3cdfbf8_car3.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\imagescar1.jpg",
+      "PackagePath": "staticwebassets\\imagescar1.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\imagescar2.jpg",
+      "PackagePath": "staticwebassets\\imagescar2.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\imagescar3.jpg",
+      "PackagePath": "staticwebassets\\imagescar3.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\imagescar4.jpg",
+      "PackagePath": "staticwebassets\\imagescar4.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\imagescar6.jpg",
+      "PackagePath": "staticwebassets\\imagescar6.jpg"
+    },
+    {
+      "Id": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\wwwroot\\imagescar7.jpg",
+      "PackagePath": "staticwebassets\\imagescar7.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HomeAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HomeAPI.props",
+      "PackagePath": "build\\HomeAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HomeAPI.props",
+      "PackagePath": "buildMultiTargeting\\HomeAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HomeAPI.props",
+      "PackagePath": "buildTransitive\\HomeAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

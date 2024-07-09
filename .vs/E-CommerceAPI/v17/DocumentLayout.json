@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC275BF-2075-4E54-9DB4-A2AE3853BA0E}|HomeAPI\\HomeAPI.csproj|d:\\personal_projects\\asp.net\\bradshop\\e-commerceapi\\homeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC275BF-2075-4E54-9DB4-A2AE3853BA0E}|HomeAPI\\HomeAPI.csproj|solutionrelative:homeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC275BF-2075-4E54-9DB4-A2AE3853BA0E}|HomeAPI\\HomeAPI.csproj|d:\\personal_projects\\asp.net\\bradshop\\e-commerceapi\\homeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC275BF-2075-4E54-9DB4-A2AE3853BA0E}|HomeAPI\\HomeAPI.csproj|solutionrelative:homeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E77EA7-9207-4CA5-8342-4388D1950A4C}|..\\MobileAPI\\ProductsAPI.csproj|d:\\personal_projects\\asp.net\\bradshop\\mobileapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1E8D45-32F3-4473-B686-EDD7D9F43CE4}|..\\UserAPI\\UserAPI.csproj|d:\\personal_projects\\asp.net\\bradshop\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1E8D45-32F3-4473-B686-EDD7D9F43CE4}|..\\UserAPI\\UserAPI.csproj|d:\\personal_projects\\asp.net\\bradshop\\userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E77EA7-9207-4CA5-8342-4388D1950A4C}|..\\MobileAPI\\ProductsAPI.csproj|d:\\personal_projects\\asp.net\\bradshop\\mobileapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E77EA7-9207-4CA5-8342-4388D1950A4C}|..\\MobileAPI\\ProductsAPI.csproj|d:\\personal_projects\\asp.net\\bradshop\\mobileapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HomeAPI\\appsettings.json",
+              "ToolTip": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\appsettings.json",
+              "RelativeToolTip": "HomeAPI\\appsettings.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T17:00:55.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HomeAPI\\Program.cs",
+              "ToolTip": "D:\\Personal_Projects\\Asp.net\\BradShop\\E-CommerceAPI\\HomeAPI\\Program.cs",
+              "RelativeToolTip": "HomeAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:00:49.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal_Projects\\Asp.net\\BradShop\\MobileAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\MobileAPI\\appsettings.json",
+              "ToolTip": "D:\\Personal_Projects\\Asp.net\\BradShop\\MobileAPI\\appsettings.json",
+              "RelativeToolTip": "..\\MobileAPI\\appsettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T13:54:23.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal_Projects\\Asp.net\\BradShop\\UserAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\UserAPI\\appsettings.json",
+              "ToolTip": "D:\\Personal_Projects\\Asp.net\\BradShop\\UserAPI\\appsettings.json",
+              "RelativeToolTip": "..\\UserAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T13:54:24.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Personal_Projects\\Asp.net\\BradShop\\UserAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\UserAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Personal_Projects\\Asp.net\\BradShop\\UserAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\UserAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:54:24.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Personal_Projects\\Asp.net\\BradShop\\MobileAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\MobileAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Personal_Projects\\Asp.net\\BradShop\\MobileAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\MobileAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAD0CAAAAAAAAAAAcwEYCAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:54:24.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Personal_Projects\\Asp.net\\BradShop\\MobileAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\MobileAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Personal_Projects\\Asp.net\\BradShop\\MobileAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\MobileAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwLkBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:54:24.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
